@@ -28,7 +28,7 @@ Here are some ideas to get you started:
      
 <strong>Hi, I am bai !👋 </strong>
 
-<strong>A simple student from OUC. </strong>
+<strong>A ordinary student from OUC. </strong>
 
 </pre> 
 
